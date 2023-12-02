@@ -1,0 +1,12 @@
+
+
+const firebaseConfig = {
+  apiKey: "AIzaSyB9yvUvDDTBg7V_Ouh0-qaNNJe7CzeLHwo",
+  authDomain: "crypto-hunter-50945.firebaseapp.com",
+  projectId: "crypto-hunter-50945",
+  storageBucket: "crypto-hunter-50945.appspot.com",
+  messagingSenderId: "822248281482",
+  appId: "1:822248281482:web:e46dd6eef6fa865ed5a473"
+};
+
+export default firebaseConfig;
